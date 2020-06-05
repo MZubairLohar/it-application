@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change hard drive on WorkStation 005",
+      "attention": false,
+      "date": "4-06-2020",
+      "tech": "mubbashir"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "4-06-2020",
+      "tech": "fahim"
+    },
+    {
+      "id": 3,
+      "message": "change memory on workstation",
+      "attention": false,
+      "date": "4-06-2020",
+      "tech": "amir"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "mubbshir",
+      "lastName": "hameed"
+    },
+    {
+      "id": 2,
+      "firstName": "fahim",
+      "lastName": "abbas"
+    },
+    {
+      "id": 3,
+      "firstName": "amir",
+      "lastName": "sohail"
+    }
+  ]
+}
